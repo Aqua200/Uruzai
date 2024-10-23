@@ -14,7 +14,7 @@ global.confirmCode = ''
 
 //• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
 global.owner = [
-  ['6282114987516', '˚🌷↯ Micchon Shikimori', true],
+  ['6282114987516', '˚🌷↯ 𝑀𝑒𝑔𝑢𝑚𝑖𝑛', true],
   ['6282114987516', '𝑁𝑒𝑦𝑘𝑜𝑜𝑟💜', true],
   ['6282114987516'],
   [''],
@@ -36,23 +36,23 @@ global.libreria = 'Baileys'
 global.baileys = 'V 6.7.8'
 global.vs = '3.0.3'
 global.languaje = 'Español'
-global.nameqr = '˚🌷↯ Micchon Shikimori'
+global.nameqr = '˚🌷↯ 𝑀𝑒𝑔𝑢𝑚𝑖𝑛'
 global.sessions = 'MeguminSession'
 global.jadi = 'MeguminJadiBot'
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
 global.packsticker = `𝑁𝑒𝑦𝑘𝑜𝑜𝑟💜\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
-global.packname = `˚🌷↯ Micchon Shikimori`
-global.author = `♾━━━━━━━━\n𝑁𝑒𝑦𝑘𝑜𝑜𝑟💜\n⇝ 🌷↯ Micchon Shikimori\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: 🌷↯ Micchon Shikimori `;
-global.wm = '˚🌷↯ Micchon Shikimori';
-global.titulowm = '🌷↯ Micchon Shikimori';
-global.titulowm2 = `˚🌷↯ Micchon Shikimori`
+global.packname = `🌷↯ 𝑀𝑒𝑔𝑢𝑚𝑖𝑛✰⃔࿐`
+global.author = `♾━━━━━━━━\n𝑁𝑒𝑦𝑘𝑜𝑜𝑟💜\n⇝🌷↯ 𝑀𝑒𝑔𝑢𝑚𝑖𝑛✰⃔࿐\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: 🌷↯ 𝑀𝑒𝑔𝑢𝑚𝑖𝑛✰⃔࿐ `;
+global.wm = '˚🌷↯ 𝑀𝑒𝑔𝑢𝑚𝑖𝑛✰⃔࿐';
+global.titulowm = '🌷↯ 𝑀𝑒𝑔𝑢𝑚𝑖𝑛✰⃔࿐';
+global.titulowm2 = `˚🌷↯ 𝑀𝑒𝑔𝑢𝑚𝑖𝑛✰⃔࿐`
 global.igfg = 'ᥫᩣNeykoor'
-global.botname = '˚🌷↯ Micchon Shikimori࿐'
+global.botname = '˚🌷↯ 𝑀𝑒𝑔𝑢𝑚𝑖𝑛࿐'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ sᥙᥒᥣіgһ𝗍 𝗍ᥱᥲm ❀'
-global.textbot = '˚🌷↯ Micchon Shikimori✰⃔࿐ : ᥫᩣ𝑁𝑒𝑦𝑘𝑜𝑜𝑟'
-global.gt = '˚🌷↯ Micchon Shikimori';
-global.namechannel = '˚🌷↯ Micchon Shikimori࿐/ᥫᩣ𝑁𝑒𝑦𝑘𝑜𝑜𝑟💜'
+global.textbot = '˚🌷↯ 𝑀𝑒𝑔𝑢𝑚𝑖𝑛✰⃔࿐ : ᥫᩣ𝑁𝑒𝑦𝑘𝑜𝑜𝑟'
+global.gt = '˚🌷↯ 𝑀𝑒𝑔𝑢𝑚𝑖𝑛✰⃔࿐';
+global.namechannel = '🌷↯ 𝑀𝑒𝑔𝑢𝑚𝑖𝑛✰⃔࿐/ᥫᩣ𝑁𝑒𝑦𝑘𝑜𝑜𝑟💜'
 
 
 //• ↳ ◜𝑰𝑴𝑨́𝑮𝑬𝑵𝑬𝑺◞ • 🌇
