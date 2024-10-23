@@ -19,9 +19,9 @@ const handler = async (m, { conn }) => {
         fileName: "Grupo 3 - WhatsApp"
       },
       {
-        title: "Canal Oficial",
+        title: "𝑐𝑎𝑛𝑎𝑙 𝑜𝑓𝑖𝑐𝑖𝑎𝑙 ",
         url: "https://whatsapp.com/channel/0029VacDy0R6hENqnTKnG820",
-        fileName: "Canal Oficial - WhatsApp"
+        fileName: "𝑐𝑎𝑛𝑎𝑙 𝑜𝑓𝑖𝑐𝑖𝑎𝑙  - 𝑊𝒉𝑎𝑡𝑠𝐴𝑝𝑝 "
       }
     ];
 
@@ -32,7 +32,7 @@ const handler = async (m, { conn }) => {
         },
         mimetype: 'application/pdf',
         fileName: doc.fileName,
-        caption: `📄 ${doc.title} - Únete al grupo`,
+        caption: `📄 ${doc.title} - 𝑢𝑛𝑒𝑡𝑒 𝑎 𝑙𝑜𝑠 𝑔𝑟𝑢𝑝𝑜𝑠 𝑜𝑓𝑖𝑐𝑖𝑎𝑙𝑒𝑠 `,
         buttons: [
           { buttonId: `link_${doc.url}`, buttonText: { displayText: `Unirme a ${doc.title}` }, type: 1 }
         ],
