@@ -109,11 +109,11 @@ global.gp4 = 'https://chat.whatsapp.com/B5T4rPpz5cE9pQqH4swoOB' //Grupo Oficial 
 global.gp1 = '' //Grupo 
 global.gp2 = ''//
 global.comunidad1 = '' //Comunidad Megumin
-global.channel = 'https://whatsapp.com/channel/0029VacDy0R6hENqnTKnG820' //Canal Oficial
+global.channel = 'https://whatsapp.com/channel/0029VarsCsD545unQ5Lw7429' //Canal Oficial
 global.yt = '' //Canal De Youtube
 global.md = '' //Github Oficial
 global.correo = ''//correo
-global.cn ='https://whatsapp.com/channel/0029VacDy0R6hENqnTKnG820';
+global.cn ='https://whatsapp.com/channel/0029VarsCsD545unQ5Lw7429';
 
 var ase = new Date(); var hour = ase.getHours(); switch(hour){ case 0: hour = 'Linda Mañana'; break; case 1: hour = 'Linda Mañana'; break; case 2: hour = 'Linda Mañana'; break; case 3: hour = 'Linda Mañana'; break; case 4: hour = 'linda mañana'; break; case 5: hour = 'Linda Mañana'; break; case 6: hour = 'Linda Mañana'; break; case 7: hour = 'Linda Mañana'; break; case 8: hour = 'Linda Mañana'; break; case 9: hour = 'Linda Mañana'; break; case 10: hour = 'Lindo Dia'; break; case 11: hour = 'Lindo Dia'; break; case 12: hour = 'Lindo Dia'; break; case 13: hour = 'Lindo Dia'; break; case 14: hour = 'Linda Tarde'; break; case 15: hour = 'Linda Tarde'; break; case 16: hour = 'Linda Tarde'; break; case 17: hour = 'Linda Tarde'; break; case 18: hour = 'Linda Noche'; break; case 19: hour = 'Linda Noche'; break; case 20: hour = 'Linda Noche'; break; case 21: hour = 'Linda Noche'; break; case 22: hour = 'Linda Noche'; break; case 23: hour = 'Linda Noche'; break;}
 global.saludo = '🍭' + hour;
