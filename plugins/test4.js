@@ -5,17 +5,17 @@ const handler = async (m, { conn }) => {
     const documents = [
       {
         title: "𝑔𝑟𝑢𝑝𝑜 1",
-        url: "https://chat.whatsapp.com/J9gyFJLbhVIJXaUZlpo8Xt",
+        url: "https://chat.whatsapp.com/B5T4rPpz5cE9pQqH4swoOB",
         fileName: "𝑔𝑟𝑢𝑝𝑜 1- 𝑊𝒉𝑎𝑡𝑠𝐴𝑝𝑝 "
       },
       {
         title: "𝑔𝑟𝑢𝑝𝑜 2",
-        url: "https://chat.whatsapp.com/J9gyFJLbhVIJXaUZlpo8Xt",
+        url: "https://chat.whatsapp.com/Ddy7RqVooxjI69dsIHXGEX",
         fileName: "𝑔𝑟𝑢𝑝𝑜 2- 𝑊𝒉𝑎𝑡𝑠𝐴𝑝𝑝 "
       },
       {
         title: "𝑔𝑟𝑢𝑝𝑜 3",
-        url: "https://chat.whatsapp.com/LJKcR8QBJgu37bVFWuhRVn",
+        url: "No disponible",
         fileName: "𝑔𝑟𝑢𝑝𝑜 3 - 𝑊𝒉𝑎𝑡𝑠𝐴𝑝𝑝 "
       },
       {
