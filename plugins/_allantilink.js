@@ -27,7 +27,7 @@ const isAntiLinkTw = isLinkTw.exec(m.text)
  
 if (chat.antiTiktok && isAntiLinkTik) {  
 if (isBotAdmin && bot.restrict) {
-await conn.reply(m.chat, `『✦』Se detecto un enlace de \`TikTok\`.\nSeras eliminado/a: *@${toUser}*`, null, { mentions: [aa] })
+await conn.reply(m.chat, `『✦』❤️𝐒𝐞 𝐝𝐞𝐭𝐞𝐜𝐭𝐨 𝐮𝐧 𝐞𝐧𝐥𝐚𝐜𝐞 𝐝𝐞 \`𝐓𝐢𝐤𝐓𝐨𝐤\`.\𝐧𝐒𝐞𝐫𝐚𝐬 𝐞𝐥𝐢𝐦𝐢𝐧𝐚𝐝𝐨/𝐚💟: *@${toUser}*`, null, { mentions: [aa] })
 await conn.sendMessage(m.chat, { delete: { remoteJid: m.chat, fromMe: false, id: bang, participant: delet }})
 await conn.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
 } else if (!isBotAdmin) {
