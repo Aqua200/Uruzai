@@ -4,9 +4,9 @@ const handler = async (m, { conn }) => {
   try {
     const documents = [
       {
-        title: "Grupo 1",
+        title: "𝑔𝑟𝑢𝑝𝑜 1",
         url: "https://chat.whatsapp.com/J9gyFJLbhVIJXaUZlpo8Xt",
-        fileName: "Grupo 1 - 𝑊𝒉𝑎𝑡𝑠𝐴𝑝𝑝 "
+        fileName: "𝑔𝑟𝑢𝑝𝑜 1- 𝑊𝒉𝑎𝑡𝑠𝐴𝑝𝑝 "
       },
       {
         title: "Grupo 2",
