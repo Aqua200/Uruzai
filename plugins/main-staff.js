@@ -7,8 +7,8 @@ let staff = `🚩 *EQUIPO DE AYUDANTES*
 
 • Diamond
 🍟 *Rol:* Propietario
-🚩 *Número:* 
-✨️ *GitHub:* 
+🚩 *Número:* https://wa.me/qr/QUQOO62T4KCFC1
+✨️ *GitHub:* No Disponible :)
 
 🌸  *Colaboradores:*
 
