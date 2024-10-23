@@ -9,14 +9,14 @@ const handler = async (m, { conn }) => {
         fileName: "𝑔𝑟𝑢𝑝𝑜 1- 𝑊𝒉𝑎𝑡𝑠𝐴𝑝𝑝 "
       },
       {
-        title: "Grupo 2",
+        title: "𝑔𝑟𝑢𝑝𝑜 2",
         url: "https://chat.whatsapp.com/J9gyFJLbhVIJXaUZlpo8Xt",
-        fileName: "Grupo 2 - 𝑊𝒉𝑎𝑡𝑠𝐴𝑝𝑝 "
+        fileName: "𝑔𝑟𝑢𝑝𝑜 2- 𝑊𝒉𝑎𝑡𝑠𝐴𝑝𝑝 "
       },
       {
-        title: "Grupo 3",
+        title: "𝑔𝑟𝑢𝑝𝑜 3",
         url: "https://chat.whatsapp.com/LJKcR8QBJgu37bVFWuhRVn",
-        fileName: "Grupo 3 - 𝑊𝒉𝑎𝑡𝑠𝐴𝑝𝑝 "
+        fileName: "𝑔𝑟𝑢𝑝𝑜 3 - 𝑊𝒉𝑎𝑡𝑠𝐴𝑝𝑝 "
       },
       {
         title: "𝑐𝑎𝑛𝑎𝑙 𝑜𝑓𝑖𝑐𝑖𝑎𝑙 ",
