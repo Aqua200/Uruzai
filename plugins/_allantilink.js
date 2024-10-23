@@ -31,7 +31,7 @@ await conn.reply(m.chat, `『✦』❤️𝐒𝐞 𝐝𝐞𝐭𝐞𝐜𝐭𝐨 �
 await conn.sendMessage(m.chat, { delete: { remoteJid: m.chat, fromMe: false, id: bang, participant: delet }})
 await conn.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
 } else if (!isBotAdmin) {
-return m.reply(`『✦』El bot no es admin, no puedo eliminar personas.`)
+return m.reply(`『✦』❤️𝐋𝐨 𝐬𝐢𝐞𝐧𝐭𝐨  𝐧𝐨 𝐬𝐨𝐲 𝐚𝐝𝐦𝐢𝐧🥺, 𝐧𝐨 𝐩𝐮𝐞𝐝𝐨 𝐞𝐥𝐢𝐦𝐢𝐧𝐚𝐫 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐬💟`)
 } else if (!bot.restrict) {
 return m.reply(`『✦』Las restricciones no estan activas.`)
 }}
