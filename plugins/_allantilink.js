@@ -38,7 +38,7 @@ return m.reply(`『✦』❤️𝐋𝐚𝐬 𝐫𝐞𝐬𝐭𝐫𝐢𝐜𝐜𝐢
     
 if (chat.antiYoutube && isAntiLinkYt) {
 if (isBotAdmin && bot.restrict) {
-await conn.reply(m.chat, `『✦』Se detecto un enlace de \`YouTube\`.\nSeras eliminado/a: *@${toUser}*`, null, { mentions: [aa] })
+await conn.reply(m.chat, `『✦』❤️𝐒𝐞 𝐝𝐞𝐭𝐞𝐜𝐭𝐨 𝐮𝐧 𝐞𝐧𝐥𝐚𝐜𝐞 𝐝𝐞 \`𝐘𝐨𝐮𝐓𝐮𝐛𝐞\`.\𝐧𝐒𝐞𝐫𝐚𝐬 𝐞𝐥𝐢𝐦𝐢𝐧𝐚𝐝𝐨/𝐚💟: *@${toUser}*`, null, { mentions: [aa] })
 await conn.sendMessage(m.chat, { delete: { remoteJid: m.chat, fromMe: false, id: bang, participant: delet }})
 await conn.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
 } else if (!isBotAdmin) {
@@ -49,7 +49,7 @@ return m.reply(`『✦』❤️𝐋𝐚𝐬 𝐫𝐞𝐬𝐭𝐫𝐢𝐜𝐜𝐢
     
 if (chat.antiTelegram && isAntiLinkTel) {
 if (isBotAdmin && bot.restrict) {
-await conn.reply(m.chat, `『✦』Se detecto un enlace de \`Telegram\`.\nSeras eliminado/a: *@${toUser}*`, null, { mentions: [aa] })
+await conn.reply(m.chat, `『✦』❤️𝐒𝐞 𝐝𝐞𝐭𝐞𝐜𝐭𝐨 𝐮𝐧 𝐞𝐧𝐥𝐚𝐜𝐞 𝐝𝐞 \`𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦\`.\𝐧𝐒𝐞𝐫𝐚𝐬 𝐞𝐥𝐢𝐦𝐢𝐧𝐚𝐝𝐨/𝐚💟: *@${toUser}*`, null, { mentions: [aa] })
 await conn.sendMessage(m.chat, { delete: { remoteJid: m.chat, fromMe: false, id: bang, participant: delet }})
 await conn.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
 } else if (!isBotAdmin) {
@@ -60,7 +60,7 @@ return m.reply(`『✦』❤️𝐋𝐚𝐬 𝐫𝐞𝐬𝐭𝐫𝐢𝐜𝐜𝐢
     
 if (chat.antiFacebook && isAntiLinkFb) {
 if (isBotAdmin && bot.restrict) {
-await conn.reply(m.chat, `『✦』Se detecto un enlace de \`Facebook\`.\nSeras eliminado/a: *@${toUser}*`, null, { mentions: [aa] })
+await conn.reply(m.chat, `『✦』❤️𝐒𝐞 𝐝𝐞𝐭𝐞𝐜𝐭𝐨 𝐮𝐧 𝐞𝐧𝐥𝐚𝐜𝐞 𝐝𝐞 \`𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤\`.\𝐧𝐒𝐞𝐫𝐚𝐬 𝐞𝐥𝐢𝐦𝐢𝐧𝐚𝐝𝐨/𝐚💟: *@${toUser}*`, null, { mentions: [aa] })
 await conn.sendMessage(m.chat, { delete: { remoteJid: m.chat, fromMe: false, id: bang, participant: delet }})
 await conn.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
 } else if (!isBotAdmin) {
@@ -71,7 +71,7 @@ return m.reply(`『✦』❤️𝐋𝐚𝐬 𝐫𝐞𝐬𝐭𝐫𝐢𝐜𝐜𝐢
     
 if (chat.antiInstagram && isAntiLinkIg) {
 if (isBotAdmin && bot.restrict) {
-await conn.reply(m.chat, `『✦』Se detecto un enlace de \`Instagram\`.\nSeras eliminado/a: *@${toUser}*`, null, { mentions: [aa] })
+await conn.reply(m.chat, `『✦』❤️𝐒𝐞 𝐝𝐞𝐭𝐞𝐜𝐭𝐨 𝐮𝐧 𝐞𝐧𝐥𝐚𝐜𝐞 𝐝𝐞 \`𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦\`.\𝐧𝐒𝐞𝐫𝐚𝐬 𝐞𝐥𝐢𝐦𝐢𝐧𝐚𝐝𝐨/𝐚💟: *@${toUser}*`, null, { mentions: [aa] })
 await conn.sendMessage(m.chat, { delete: { remoteJid: m.chat, fromMe: false, id: bang, participant: delet }})
 await conn.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
 } else if (!isBotAdmin) {
@@ -82,7 +82,7 @@ return m.reply(`『✦』❤️𝐋𝐚𝐬 𝐫𝐞𝐬𝐭𝐫𝐢𝐜𝐜𝐢
     
 if (chat.antiTwitter && isAntiLinkTw) {
 if (isBotAdmin && bot.restrict) {
-await conn.reply(m.chat, `『✦』Se detecto un enlace de \`Twitter\`.\nSeras eliminado/a: *@${toUser}*`, null, { mentions: [aa] })
+await conn.reply(m.chat, `『✦』❤️𝐒𝐞 𝐝𝐞𝐭𝐞𝐜𝐭𝐨 𝐮𝐧 𝐞𝐧𝐥𝐚𝐜𝐞 𝐝𝐞 \`𝐓𝐰𝐢𝐭𝐭𝐞𝐫\`.\𝐧𝐒𝐞𝐫𝐚𝐬 𝐞𝐥𝐢𝐦𝐢𝐧𝐚𝐝𝐨/𝐚💟: *@${toUser}*`, null, { mentions: [aa] })
 await conn.sendMessage(m.chat, { delete: { remoteJid: m.chat, fromMe: false, id: bang, participant: delet }})
 await conn.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
 } else if (!isBotAdmin) {
