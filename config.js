@@ -41,7 +41,7 @@ global.sessions = 'MeguminSession'
 global.jadi = 'MeguminJadiBot'
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
-global.packsticker = `♾ ━━━━━━━━\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
+global.packsticker = `Neykoor\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
 global.packname = `˚🌷↯ Micchon Shikimori`
 global.author = `♾━━━━━━━━\nneykoor\n⇝ 🌷↯ Micchon Shikimori\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: 🌷↯ Micchon Shikimori `;
 global.wm = '˚🌷↯ Micchon Shikimori';
