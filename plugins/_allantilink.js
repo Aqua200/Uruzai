@@ -42,9 +42,9 @@ await conn.reply(m.chat, `『✦』Se detecto un enlace de \`YouTube\`.\nSeras e
 await conn.sendMessage(m.chat, { delete: { remoteJid: m.chat, fromMe: false, id: bang, participant: delet }})
 await conn.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
 } else if (!isBotAdmin) {
-return m.reply(`『✦』El bot no es admin, no puedo eliminar personas.`)
+return m.reply(`『✦』❤️𝐋𝐨 𝐬𝐢𝐞𝐧𝐭𝐨 𝐧𝐨 𝐬𝐨𝐲 𝐚𝐝𝐦𝐢𝐧🥺, 𝐧𝐨 𝐩𝐮𝐞𝐝𝐨 𝐞𝐥𝐢𝐦𝐢𝐧𝐚𝐫 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐬💟.`)
 } else if (!bot.restrict) {
-return m.reply(`『✦』Las restricciones no estan activas.`)
+return m.reply(`『✦』❤️𝐋𝐚𝐬 𝐫𝐞𝐬𝐭𝐫𝐢𝐜𝐜𝐢𝐨𝐧𝐞𝐬 𝐧𝐨 𝐞𝐬𝐭𝐚𝐧 𝐚𝐜𝐭𝐢𝐯𝐚𝐬💟.`)
 }}  
     
 if (chat.antiTelegram && isAntiLinkTel) {
@@ -53,9 +53,9 @@ await conn.reply(m.chat, `『✦』Se detecto un enlace de \`Telegram\`.\nSeras 
 await conn.sendMessage(m.chat, { delete: { remoteJid: m.chat, fromMe: false, id: bang, participant: delet }})
 await conn.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
 } else if (!isBotAdmin) {
-return m.reply(`『✦』El bot no es admin, no puedo eliminar personas.`)
+return m.reply(`『✦』❤️𝐋𝐨 𝐬𝐢𝐞𝐧𝐭𝐨 𝐧𝐨 𝐬𝐨𝐲 𝐚𝐝𝐦𝐢𝐧🥺, 𝐧𝐨 𝐩𝐮𝐞𝐝𝐨 𝐞𝐥𝐢𝐦𝐢𝐧𝐚𝐫 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐬💟.`)
 } else if (!bot.restrict) {
-return m.reply(`『✦』Las restricciones no estan activas.`)
+return m.reply(`『✦』❤️𝐋𝐚𝐬 𝐫𝐞𝐬𝐭𝐫𝐢𝐜𝐜𝐢𝐨𝐧𝐞𝐬 𝐧𝐨 𝐞𝐬𝐭𝐚𝐧 𝐚𝐜𝐭𝐢𝐯𝐚𝐬💟.`)
 }}    
     
 if (chat.antiFacebook && isAntiLinkFb) {
@@ -64,9 +64,9 @@ await conn.reply(m.chat, `『✦』Se detecto un enlace de \`Facebook\`.\nSeras 
 await conn.sendMessage(m.chat, { delete: { remoteJid: m.chat, fromMe: false, id: bang, participant: delet }})
 await conn.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
 } else if (!isBotAdmin) {
-return m.reply(`『✦』El bot no es admin, no puedo eliminar personas.`)
+return m.reply(`『✦』❤️𝐋𝐨 𝐬𝐢𝐞𝐧𝐭𝐨 𝐧𝐨 𝐬𝐨𝐲 𝐚𝐝𝐦𝐢𝐧🥺, 𝐧𝐨 𝐩𝐮𝐞𝐝𝐨 𝐞𝐥𝐢𝐦𝐢𝐧𝐚𝐫 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐬💟.`)
 } else if (!bot.restrict) {
-return m.reply(`『✦』Las restricciones no estan activas.`)
+return m.reply(`『✦』❤️𝐋𝐚𝐬 𝐫𝐞𝐬𝐭𝐫𝐢𝐜𝐜𝐢𝐨𝐧𝐞𝐬 𝐧𝐨 𝐞𝐬𝐭𝐚𝐧 𝐚𝐜𝐭𝐢𝐯𝐚𝐬💟.`)
 }}  
     
 if (chat.antiInstagram && isAntiLinkIg) {
@@ -75,9 +75,9 @@ await conn.reply(m.chat, `『✦』Se detecto un enlace de \`Instagram\`.\nSeras
 await conn.sendMessage(m.chat, { delete: { remoteJid: m.chat, fromMe: false, id: bang, participant: delet }})
 await conn.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
 } else if (!isBotAdmin) {
-return m.reply(`『✦』El bot no es admin, no puedo eliminar personas.`)
+return m.reply(`『✦』❤️𝐋𝐨 𝐬𝐢𝐞𝐧𝐭𝐨 𝐧𝐨 𝐬𝐨𝐲 𝐚𝐝𝐦𝐢𝐧🥺, 𝐧𝐨 𝐩𝐮𝐞𝐝𝐨 𝐞𝐥𝐢𝐦𝐢𝐧𝐚𝐫 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐬💟.`)
 } else if (!bot.restrict) {
-return m.reply(`『✦』Las restricciones no estan activas.`)
+return m.reply(`『✦』❤️𝐋𝐚𝐬 𝐫𝐞𝐬𝐭𝐫𝐢𝐜𝐜𝐢𝐨𝐧𝐞𝐬 𝐧𝐨 𝐞𝐬𝐭𝐚𝐧 𝐚𝐜𝐭𝐢𝐯𝐚𝐬💟.`)
 }}
     
 if (chat.antiTwitter && isAntiLinkTw) {
@@ -86,9 +86,9 @@ await conn.reply(m.chat, `『✦』Se detecto un enlace de \`Twitter\`.\nSeras e
 await conn.sendMessage(m.chat, { delete: { remoteJid: m.chat, fromMe: false, id: bang, participant: delet }})
 await conn.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
 } else if (!isBotAdmin) {
-return m.reply(`『✦』El bot no es admin, no puedo eliminar personas.`)
+return m.reply(`『✦』❤️𝐋𝐨 𝐬𝐢𝐞𝐧𝐭𝐨 𝐧𝐨 𝐬𝐨𝐲 𝐚𝐝𝐦𝐢𝐧🥺, 𝐧𝐨 𝐩𝐮𝐞𝐝𝐨 𝐞𝐥𝐢𝐦𝐢𝐧𝐚𝐫 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐬💟.`)
 } else if (!bot.restrict) {
-return m.reply(`『✦』Las restricciones no estan activas.`)
+return m.reply(`『✦』❤️𝐋𝐚𝐬 𝐫𝐞𝐬𝐭𝐫𝐢𝐜𝐜𝐢𝐨𝐧𝐞𝐬 𝐧𝐨 𝐞𝐬𝐭𝐚𝐧 𝐚𝐜𝐭𝐢𝐯𝐚𝐬💟.`)
 }}
 return !0
 }
