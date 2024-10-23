@@ -15,19 +15,19 @@ global.confirmCode = ''
 //• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
 global.owner = [
   ['6282114987516', '˚🌷↯ Micchon Shikimori', true],
-  ['6282114987516', 'Neykoor', true],
+  ['6282114987516', '𝑁𝑒𝑦𝑘𝑜𝑜𝑟💜', true],
   ['6282114987516'],
-  ['573012482597'],
-  ['593984964830'],
-  ['5218711426787'],
-  ['5217774603921'],
-  ['50492280729']
+  [''],
+  [''],
+  [''],
+  [''],
+  ['']
 ];
 
 //• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
-global.mods = ['5351524614', '5218711426787', '', '', '']
+global.mods = ['', '', '', '', '']
 
-global.suittag = ['5351524614']
+global.suittag = ['']
 global.prems = []
 
 //cambiar a true si el bot detecta sus propios comandos.
@@ -36,23 +36,23 @@ global.libreria = 'Baileys'
 global.baileys = 'V 6.7.8'
 global.vs = '3.0.3'
 global.languaje = 'Español'
-global.nameqr = 'Megumin Bot - MD'
+global.nameqr = '˚🌷↯ Micchon Shikimori'
 global.sessions = 'MeguminSession'
 global.jadi = 'MeguminJadiBot'
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
-global.packsticker = `Neykoor\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
+global.packsticker = `𝑁𝑒𝑦𝑘𝑜𝑜𝑟💜\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
 global.packname = `˚🌷↯ Micchon Shikimori`
-global.author = `♾━━━━━━━━\nneykoor\n⇝ 🌷↯ Micchon Shikimori\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: 🌷↯ Micchon Shikimori `;
+global.author = `♾━━━━━━━━\n𝑁𝑒𝑦𝑘𝑜𝑜𝑟💜\n⇝ 🌷↯ Micchon Shikimori\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: 🌷↯ Micchon Shikimori `;
 global.wm = '˚🌷↯ Micchon Shikimori';
 global.titulowm = '🌷↯ Micchon Shikimori';
 global.titulowm2 = `˚🌷↯ Micchon Shikimori`
 global.igfg = 'ᥫᩣNeykoor'
 global.botname = '˚🌷↯ Micchon Shikimori࿐'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ sᥙᥒᥣіgһ𝗍 𝗍ᥱᥲm ❀'
-global.textbot = '˚🌷↯ Micchon Shikimori✰⃔࿐ : ᥫᩣNeykoor'
+global.textbot = '˚🌷↯ Micchon Shikimori✰⃔࿐ : ᥫᩣ𝑁𝑒𝑦𝑘𝑜𝑜𝑟'
 global.gt = '˚🌷↯ Micchon Shikimori';
-global.namechannel = '˚🌷↯ Micchon Shikimori࿐/ᥫᩣNeykoor'
+global.namechannel = '˚🌷↯ Micchon Shikimori࿐/ᥫᩣ𝑁𝑒𝑦𝑘𝑜𝑜𝑟💜'
 
 
 //• ↳ ◜𝑰𝑴𝑨́𝑮𝑬𝑵𝑬𝑺◞ • 🌇
