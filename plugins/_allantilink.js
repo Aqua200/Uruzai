@@ -33,7 +33,7 @@ await conn.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
 } else if (!isBotAdmin) {
 return m.reply(`『✦』❤️𝐋𝐨 𝐬𝐢𝐞𝐧𝐭𝐨  𝐧𝐨 𝐬𝐨𝐲 𝐚𝐝𝐦𝐢𝐧🥺, 𝐧𝐨 𝐩𝐮𝐞𝐝𝐨 𝐞𝐥𝐢𝐦𝐢𝐧𝐚𝐫 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐬💟`)
 } else if (!bot.restrict) {
-return m.reply(`『✦』Las restricciones no estan activas.`)
+return m.reply(`『✦』❤️𝐋𝐚𝐬 𝐫𝐞𝐬𝐭𝐫𝐢𝐜𝐜𝐢𝐨𝐧𝐞𝐬 𝐧𝐨 𝐞𝐬𝐭𝐚𝐧 𝐚𝐜𝐭𝐢𝐯𝐚𝐬💟.`)
 }}
     
 if (chat.antiYoutube && isAntiLinkYt) {
